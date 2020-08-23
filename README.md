@@ -26,7 +26,7 @@
 
 <p align="left">
 
-  [<img src="https://i.ibb.co/tKyz7G4/linux.png" alt="linux" width="40" height="40"/>](https://www.linux.org/target="_blank")
+  [<img src="https://i.ibb.co/tKyz7G4/linux.png" alt="linux" width="40" height="40"/>](https://www.linux.org/")
   [<img src="https://i.ibb.co/kgSThng/terminal1.png" alt="terminal" width="40" height="40"/>](#)
   [<img src="https://i.ibb.co/d6MSdKX/vscode.png" alt="vscode" width="40" height="40">](https://code.visualstudio.com/)
   [<img src="https://i.ibb.co/j5b6qVv/git.png" alt="git" width="40" height="40"/>](https://git-scm.com/)
