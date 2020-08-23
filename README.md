@@ -1,8 +1,6 @@
 
 # Hi, I'm **Júnio Melo**! #
 ## I study at **Trybe** to become a **Full Stack Web Developer** 🚀 ##
-
-<br />
 <br />
 
 **About me**
