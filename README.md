@@ -30,6 +30,7 @@
   [<img src="https://i.ibb.co/j5b6qVv/git.png" alt="git" width="40" height="40"/>](https://git-scm.com/)
   [<img src="https://i.ibb.co/fN6Z3Zv/html5.png" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [<img src="https://i.ibb.co/z4C637n/css3.png" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+  [<img src="https://i.ibb.co/ZSMSK2B/bootstrap.png" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
   [<img src="https://i.ibb.co/PMTq3h1/javascript.png" alt="js" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img src="https://i.ibb.co/tHKpKsf/jest.png" alt="jest" width="40" height="40"/>](https://jestjs.io/)
   [<img src="https://i.ibb.co/GdWdBBG/react.png" alt="react" width="40" height="40"/>](https://reactjs.org/)
