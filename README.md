@@ -1,6 +1,7 @@
+# Hi, I'm **Júnio Melo**!
 
-# Hi, I'm **Júnio Melo**! #
-## I study at **Trybe** to become a **Full Stack Web Developer** 🚀 ##
+## I study at **Trybe** to become a **Full Stack Web Developer** 🚀
+
 <br />
 
 **About me**
@@ -12,8 +13,7 @@
 - ⏭️ Studying database - Back End module;
 - 📝 <a href="https://gitconnected.com/juniomelos/resume" target="_blank">Curriculum Vitae</a>.
 
-
-*"There are only two kinds of languages: the ones people complain about and the ones nobody uses" - Bjarne Stroustrup, The C++ Programming Language.*
+_"There are only two kinds of languages: the ones people complain about and the ones nobody uses" - Bjarne Stroustrup, The C++ Programming Language._
 
 <br />
 <br />
@@ -24,20 +24,23 @@
 
 <p align="left">
 
-  [<img src="https://i.ibb.co/tKyz7G4/linux.png" alt="linux" width="40" height="40"/>](https://www.linux.org/")
-  [<img src="https://i.ibb.co/kgSThng/terminal1.png" alt="terminal" width="40" height="40"/>](#)
-  [<img src="https://i.ibb.co/d6MSdKX/vscode.png" alt="vscode" width="40" height="40">](https://code.visualstudio.com/)
-  [<img src="https://i.ibb.co/j5b6qVv/git.png" alt="git" width="40" height="40"/>](https://git-scm.com/)
-  [<img src="https://i.ibb.co/fN6Z3Zv/html5.png" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  [<img src="https://i.ibb.co/z4C637n/css3.png" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-  [<img src="https://i.ibb.co/ZSMSK2B/bootstrap.png" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
-  [<img src="https://i.ibb.co/PMTq3h1/javascript.png" alt="js" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img src="https://i.ibb.co/tHKpKsf/jest.png" alt="jest" width="40" height="40"/>](https://jestjs.io/)
-  [<img src="https://i.ibb.co/GdWdBBG/react.png" alt="react" width="40" height="40"/>](https://reactjs.org/)
-  [<img src="https://i.ibb.co/ynmgxBX/rtl.png" alt="rtl" width="40" height="40"/>](https://testing-library.com/docs/react-testing-library/intro)
-  [<img src="https://i.ibb.co/hWs1pvw/redux.png" alt="redux" width="40" height="40"/>](https://redux.js.org/)
-  [<img src="https://i.ibb.co/Kjgxhp2/react-Hooks.png" alt="react-hooks" width="40" height="40"/>](https://reactjs.org/docs/hooks-intro.html)
-  [<img src="https://i.ibb.co/yBd3m08/sql.png" alt="sql" width="40" height="40"/>](https://pt.wikipedia.org/wiki/SQL)
+[<img src="https://i.ibb.co/tKyz7G4/linux.png" alt="linux" width="40" height="40"/>](https://www.linux.org/")
+[<img src="https://i.ibb.co/kgSThng/terminal1.png" alt="terminal" width="40" height="40"/>](#)
+[<img src="https://i.ibb.co/d6MSdKX/vscode.png" alt="vscode" width="40" height="40">](https://code.visualstudio.com/)
+[<img src="https://i.ibb.co/j5b6qVv/git.png" alt="git" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://i.ibb.co/fN6Z3Zv/html5.png" alt="html5" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://i.ibb.co/z4C637n/css3.png" alt="css3" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[<img src="https://i.ibb.co/ZSMSK2B/bootstrap.png" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
+[<img src="https://i.ibb.co/PMTq3h1/javascript.png" alt="js" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://i.ibb.co/tHKpKsf/jest.png" alt="jest" width="40" height="40"/>](https://jestjs.io/)
+[<img src="https://i.ibb.co/GdWdBBG/react.png" alt="react" width="40" height="40"/>](https://reactjs.org/)
+[<img src="https://i.ibb.co/ynmgxBX/rtl.png" alt="rtl" width="40" height="40"/>](https://testing-library.com/docs/react-testing-library/intro)
+[<img src="https://i.ibb.co/hWs1pvw/redux.png" alt="redux" width="40" height="40"/>](https://redux.js.org/)
+[<img src="https://i.ibb.co/Kjgxhp2/react-Hooks.png" alt="react-hooks" width="40" height="40"/>](https://reactjs.org/docs/hooks-intro.html)
+[<img src="https://i.ibb.co/yBd3m08/sql.png" alt="sql" width="40" height="40"/>](https://pt.wikipedia.org/wiki/SQL)
+[<img src="https://i.ibb.co/v1Dh28G/mongodb.png" alt="sql" width="40" height="40"/>](https://www.mongodb.com)
+[<img src="https://i.ibb.co/8rBYsbj/nodejs.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+
 </p>
 
 <br />
