@@ -50,10 +50,10 @@ _"There are only two kinds of languages: the ones people complain about and the 
 
 <br />
 
-[<img src="https://i.ibb.co/LJ3JKm9/github.png" alt="github" width="48px" height="48px">](https://github.com/juniomelos)
-[<img src="https://i.ibb.co/qxg3WkK/linkedin-1.png" alt="linkedin" width="48px" height="48px">](https://www.linkedin.com/in/juniomelos/)
-[<img src="https://i.ibb.co/Np67zVg/twitter-1.png" width="48px" height="48px">](https://twitter.com/JUNIOMELO8)
-[<img src="https://i.ibb.co/zRKH9st/gmail-1.png" alt="gmail" width="48px" height="48px">](mailto:juniomelos@gmail.com)
+[<img src="https://i.ibb.co/LJ3JKm9/github.png" alt="github" width="40" height="40">](https://github.com/juniomelos)
+[<img src="https://i.ibb.co/qxg3WkK/linkedin-1.png" alt="linkedin" width="40" height="40">](https://www.linkedin.com/in/juniomelos/)
+[<img src="https://i.ibb.co/Np67zVg/twitter-1.png" width="40" height="40">](https://twitter.com/JUNIOMELO8)
+[<img src="https://i.ibb.co/zRKH9st/gmail-1.png" alt="gmail" width="40" height="40">](mailto:juniomelos@gmail.com)
 
 <br />
 <br />
