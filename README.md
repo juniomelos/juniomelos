@@ -1,17 +1,14 @@
 # Hi, I'm **Júnio Melo**!
 
-## I study at **Trybe** to become a **Full Stack Web Developer** 🚀
-
 <br />
 
 **About me**
 
 - 🏠 I'm from the state of Minas Gerais, Brazil
 - ❤️ I'm passionate about technology, series, movies, anime, manga, friends and family;
-- ⚡ I'm graduated in Electrical Engineering;
-- ✅ Recently completed the Front End module;
-- ⏭️ Studying database - Back End module;
-- 📝 <a href="https://gitconnected.com/juniomelos/resume" target="_blank">Curriculum Vitae</a>.
+- ⚡ Graduated in Electrical Engineering | Newton Paiva - MG;
+- 🚀 **Full Stack Web Developer** | Trybe ;
+
 
 _"There are only two kinds of languages: the ones people complain about and the ones nobody uses" - Bjarne Stroustrup, The C++ Programming Language._
 
@@ -40,6 +37,13 @@ _"There are only two kinds of languages: the ones people complain about and the 
 [<img src="https://i.ibb.co/yBd3m08/sql.png" alt="sql" width="40" height="40"/>](https://pt.wikipedia.org/wiki/SQL)
 [<img src="https://i.ibb.co/v1Dh28G/mongodb.png" alt="sql" width="40" height="40"/>](https://www.mongodb.com)
 [<img src="https://i.ibb.co/8rBYsbj/nodejs.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/hMmvBvY/python.png" alt="sql" width="35" height="35"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/J5byjjc/java.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/gdjJ4YX/spring.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/ZTmbL3s/docker.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/rFkQyxb/kubertes.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/3s8hm7d/kafka.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
+[<img src="https://i.ibb.co/wsTL3Br/JUnit.png" alt="sql" width="40" height="40"/>](https://nodejs.org/en/)
 
 </p>
 
